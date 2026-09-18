@@ -1,0 +1,38 @@
+      body,
+      html {
+        height: 100%;
+      }
+      .parallax-pic-1 {
+        background-image: url("https://thonglorpet.com/_content_images/diary/20190722/achlnprxz479.jpg.webp");
+        height: 100%;
+        background-color: aliceblue;
+        color: white;
+        text-align: center;
+        font-family: monospace;
+        font-size: 25px;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+      .sep-block {
+        background-color: aliceblue;
+        color: dimgray;
+        text-align: center;
+        font-family: monospace;
+        font-size: 50px;
+        height: 100%;
+      }
+      .parallax-pic-2 {
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8QEoZ7d3aJ74YLsaxDL716Sn5MxP9LXpG1PzWW1EigwNNr19isewbMt8d&s=10");
+        height: 100%;
+        background-color: aliceblue;
+        color: white;
+        text-align: center;
+        font-family: monospace;
+        font-size: 25px;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
